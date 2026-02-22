@@ -52,12 +52,16 @@ const Dock = () => {
 
         dock.addEventListener('mousemove', handleMouseMove);
         dock.addEventListener('mouseleave', resetIcons);
+
+        return () => {
+            dock.removeEventListener('mousemove', handleMouseMove);
+            dock.removeEventListener('mouseleave', resetIcons);
+        }
     }, []);
 
-    const toggleApp = (app) =>{
+    const toggleApp = () =>{
         // TODO Implement Open Window logic
     };
-
   return (
     <section id='dock'>
         <div ref={dockRef} className='dock-container'>
