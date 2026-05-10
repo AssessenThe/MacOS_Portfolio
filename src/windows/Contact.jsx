@@ -11,14 +11,14 @@ const Contact = () => {
 
     <div className="p-5 space-y-5">
         <img 
-            src="/images/adrian.jpg" 
-            alt="Adrian" 
+            src="/images/aditya.png" 
+            alt="Aditya" 
             className="w-20 rounded-full"
         />
 
         <h3>Let's Connect</h3>
         <p>Got an idea? A bug to squash? Or just wanna talk tech? I'm in.</p>
-        <p>contact@jsmastry.pro</p>
+        <p>adityakumarchauhan2001@gmail.com</p>
 
         <ul>
             {socials.map(({id, bg, link, icon, text}) => (
