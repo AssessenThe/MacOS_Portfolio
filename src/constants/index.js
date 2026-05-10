@@ -239,10 +239,10 @@ const WORK_LOCATION = {
           fileType: "txt",
           position: "top-5 left-10",
           description: [
-            "The Nike eCommerce website is a sleek and modern platform designed for shopping the latest Nike collections.",
-            "Instead of a simple online store, it delivers an immersive experience with bold visuals, interactive product displays, and smooth navigation.",
-            "Think of it like walking into a flagship Nike store—but right from your phone or laptop.",
-            "It's built with Next.js and Tailwind, ensuring fast performance, responsive design, and a clean, premium look.",
+            "The Taarika AI Medical Assistant is an intelligent healthcare platform designed to help users understand symptoms, medical reports, and health-related queries easily.",
+            "Instead of being just a chatbot, it delivers an interactive healthcare experience with AI-powered conversations, secure report analysis, and personalized assistance.",
+            "Think of it like having a smart virtual medical assistant available anytime from your phone or laptop.",
+            "It's built with React, FastAPI, PostgreSQL, and AI model integration, ensuring responsive performance, secure data handling, and a modern user-friendly experience."
           ],
         },
         {
@@ -292,10 +292,10 @@ const WORK_LOCATION = {
           fileType: "txt",
           position: "top-5 right-10",
           description: [
-            "AI Resume Analyzer is a smart tool that helps you perfect your resume with instant feedback.",
-            "Instead of guessing what recruiters want, you get AI-powered insights on keywords, formatting, and overall impact.",
-            "Think of it like having a career coach—pointing out strengths, fixing weaknesses, and boosting your chances of landing interviews.",
-            "It's built with Next.js and Tailwind, so it runs fast, looks professional, and works seamlessly on any device.",
+            "AssesenThe World is a 3D gamified portfolio experience designed to showcase projects, skills, and creativity through an interactive virtual world.",
+            "Instead of a standard portfolio website, it delivers an immersive journey with 3D environments, character movement, animations, and engaging gameplay-inspired interactions.",
+            "Think of it like exploring a mini open-world game where every section reveals a part of the developer’s work and achievements.",
+            "It's built with React, React Three Fiber, Rapier Physics, Tailwind CSS, and modern animation libraries, ensuring smooth performance, responsive design, and a visually dynamic experience."
           ],
         },
         {
@@ -304,7 +304,7 @@ const WORK_LOCATION = {
           icon: "/images/safari.png",
           kind: "file",
           fileType: "url",
-          href: "https://youtu.be/iYOz165wGkQ?si=R1hs8Legl200m0Cl",
+          href: "https://assessenthe.netlify.app/",
           position: "top-20 left-20",
         },
         {
@@ -345,11 +345,11 @@ const WORK_LOCATION = {
           fileType: "txt",
           position: "top-5 left-10",
           description: [
-            "Our Food Delivery App is a fast and convenient way to order meals from your favorite restaurants.",
-            "Instead of making calls or waiting in line, you can browse menus, customize orders, and track deliveries in real time.",
-            "Think of it like having your favorite restaurants in your pocket—ready to deliver anytime, anywhere.",
-            "It’s built with React Native, so it works smoothly on both iOS and Android with a clean, modern design.",
-          ],
+            "The 3D Portfolio website is a modern interactive platform designed to showcase projects, skills, and creative work in an immersive way.",
+            "Instead of a traditional portfolio, it delivers a visually engaging experience with 3D environments, smooth animations, and interactive elements.",
+            "Think of it like exploring a virtual creative workspace directly from your phone or laptop.",
+            "It's built with React, React Three Fiber, Tailwind CSS, and modern animation libraries, ensuring high performance, responsive design, and a premium visual experience."
+          ],  
         },
         {
           id: 2,
@@ -357,7 +357,7 @@ const WORK_LOCATION = {
           icon: "/images/safari.png",
           kind: "file",
           fileType: "url",
-          href: "https://youtu.be/LKrX390fJMw?si=cExkuVhf2DTV9G2-",
+          href: "portfolio-assessenthe1.netlify.app",
           position: "top-10 right-20",
         },
         {
